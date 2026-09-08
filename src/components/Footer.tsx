@@ -8,3 +8,4 @@ export default function Footer({ year, fullName, studentId }: FooterProps) {
     </footer>
   );
 }
+  
